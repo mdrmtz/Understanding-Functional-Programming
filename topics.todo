@@ -5,13 +5,6 @@ Twitter: @venkat_s
 http://www.agiledeveloper.com download link
 
 Getting started:
--the repo details are on the chat, you can quickly copy and paste it from there
--code will be pushed live during the class, please clone the repo
-  git clone https://www.agiledeveloper.com/repos/git/fp070220
-  userid: onlineclass
-  Password: code4love
-  If you run into issues with git clone, please try this command
-  git config --system http.sslverify false
 
 ✓Poll 0
 
